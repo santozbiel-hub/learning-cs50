@@ -4,6 +4,10 @@ Registro dos meus estudos de fundamentos de ciência da computação.
 
 [![CS50](https://img.shields.io/badge/Harvard-CS50-A51C30)](https://cs50.harvard.edu/x/)
 
+## Guia de leitura
+
+[Abrir o guia do projeto](docs/arquitetura.md). Veja a organização do material e um roteiro para explorá-lo.
+
 ## Ponto de partida
 
 O repositório começa com este guia. Conforme eu avançar no curso, vou organizar minhas anotações e exemplos próprios por assunto.
